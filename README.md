@@ -1,0 +1,2 @@
+# pycharm
+my pycharm directory
